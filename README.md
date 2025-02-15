@@ -1,6 +1,6 @@
-# LinkApex
+# ikli
 
-**LinkApex** is a fast, scalable URL shortener built with FastAPI and MongoDB. It features a sleek web interface and robust RESTful API for effortless link redirection, ensuring reliable and efficient URL management.
+**ikli** is a fast, scalable URL shortener built with FastAPI and MongoDB. It features a sleek web interface and robust RESTful API for effortless link redirection, ensuring reliable and efficient URL management.
 
 ---
 
